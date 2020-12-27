@@ -1,2 +1,1 @@
-# COC_DbScriptDeployment
-COC DB Script Deployment
+COC Db Script Deployment
